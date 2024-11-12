@@ -2,13 +2,9 @@
  
 Perkenalkan nama saya **Abian Nanda Rahman Nugraha**.<br>
  
-Saya seorang **Web Deveper di ** di [RSUD Geneng]
-
-(https://www.dicoding.com/).<br>
+Saya seorang ** Front End Web Deveper di ** di [RSUD Geneng]
  
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
- 
-Saya telah mengikuti Studi Independen Bersertifikat di (https://www.dicoding.com/).<br>
+Saya telah mengikuti Studi Independen Bersertifikat di [Dicoding Indonesia](https://www.dicoding.com/).<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
  
