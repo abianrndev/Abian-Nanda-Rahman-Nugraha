@@ -2,7 +2,7 @@
  
 Perkenalkan nama saya **Abian Nanda Rahman Nugraha**.<br>
  
-Saya seorang ** Front End Web Deveper di ** di [RSUD Geneng]
+Saya seorang newcomer Front End Web Deveper
  
 Saya telah mengikuti Studi Independen Bersertifikat di [Dicoding Indonesia](https://www.dicoding.com/).<br>
  
